@@ -3,7 +3,7 @@ me@samchiet.com
 
 - Technical Skills -
 Languages: C# (6 years), C/C++ (1 year), Z80 assembly (1 year), Python (1 year)
-Software Experience: OUYA, iOS, Windows, Xbox One UWP, Game Boy
+Software Experience: OUYA, iOS, Android, Windows, Xbox One UWP, Game Boy, Raspberry Pi
 
 - Previous Work -
 Mindshow (2016, 1 year):
