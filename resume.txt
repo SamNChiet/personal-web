@@ -18,7 +18,7 @@ Raylib:
 - Game Projects -
 -PaintBoy (working title):
    A goofy off-brand, handheld port of MS Paint for the Nintendo Game Boy (DMG). Written starting from nothing, entirely in Z80 assembly. Will there be Game Boy Printer support? Bet on it.
-   Written in: C
+   Written in: Assembly
    
 -Superhot VR (fan project, created before release of the official VR game)
    Sitting at over 95,000 views on youtube, this one-week project blew up in the VR scene with no external promotion attracting even the attention of the Superhot developers themselves. 
