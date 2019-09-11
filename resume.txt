@@ -2,7 +2,7 @@ Sam Chiet
 me@samchiet.com
 
 - Technical Skills -
-Languages: C# (6 years), C/C++ (1 year), Z80 assembly (1 year)
+Languages: C# (6 years), C/C++ (1 year), Z80 assembly (1 year), Python (1 year)
 Software Experience: OUYA, iOS, Windows, Xbox One UWP, Game Boy
 
 - Previous Work -
@@ -14,6 +14,10 @@ Mindshow (2016, 1 year):
 Raylib:
  Contributed UWP Input support to the Raylib programming library
  Written in: C++
+ 
+Actiview
+ Programmed Linux server demo on to stream accessibility data to dozens of devices in a movie theater, using the YouTube audio stream format.
+ Written in: Python
 
 - Game Projects -
 -PaintBoy (working title):
