@@ -1,0 +1,37 @@
+Sam Chiet
+me@samchiet.com
+
+- Technical Skills -
+Languages: C# (6 years), C/C++ (1 year), Z80 assembly (1 year)
+Software Experience: OUYA, iOS, Windows, Xbox One UWP, Game Boy
+
+- Previous Work -
+Mindshow (2016, 1 year):
+ Worked as a liaison for the design team and engineering team, implementing prototype features in-engine to rapidly iterate on high-level design concepts. Implemented bugfixes and some main features.
+ Official Title: Junior Engineer
+ Written in: Unity, C#
+
+Raylib:
+ Contributed UWP Input support to the Raylib programming library
+ Written in: C++
+
+- Game Projects -
+-PaintBoy (working title):
+   A goofy off-brand, handheld port of MS Paint for the Nintendo Game Boy (DMG). Written starting from nothing, entirely in Z80 assembly. Will there be Game Boy Printer support? Bet on it.
+   Written in: C
+   
+-Superhot VR (fan project, created before release of the official VR game)
+   Sitting at over 95,000 views on youtube, this one-week project blew up in the VR scene with no external promotion attracting even the attention of the Superhot developers themselves. 
+   Written in: Unity, C#
+   [ SIZZLE REEL: https://www.youtube.com/watch?v=xw9rVzoRqMI ]
+   [ 95k view video: https://www.youtube.com/watch?v=b7i1NNjm4OQ ]
+   
+-2DRay
+   An untitled, early-days 2D ray marcher.
+   Written in: C
+
+- Awards -
+Winner: Los Altos Hacks, 2016: KinectVR. Placed 1st.
+        Created a Unity plugin that would allow one to use the Kinect for full-body room-scale tracking, before the advent of full-body roomscale tracking
+Winner: CodeDay LA, 2016: DozensInDungeon.Placed 1st; Best Overall
+        Created a procedurally generated dungeon-crawler, in which dozens of intrepid adventurers participate using their smartphones to control their own hero. Uses HappyFunTimes.
