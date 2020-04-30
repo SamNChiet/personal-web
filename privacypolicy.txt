@@ -1,1 +1,1 @@
-All we store is a key that lets the programs check patronage status + related Patreon info from Patreon's API after you log in. That's it. We don't use it for anything else.
+All we store is a key that lets the programs check patronage status + related Patreon info (e.g. registered name and profile pic for customization on the client side) from Patreon's API after you log in. That's it.
